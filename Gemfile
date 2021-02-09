@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/MJStokes86/Ruby_Word_Wrap/tree/master" }
+git_source(:github) {|repo_name| "https://github.com/MJStokes86/Ruby_Word_Wrap" }
 
 gem "rails"
 gem 'rspec'
